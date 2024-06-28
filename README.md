@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adi Muhamad Firmansya</h1>
+<h1 align="center">Hi 👋, I'm Adi Muhamad Firmansyah</h1>
 <h3 align="center">A passionate Fullstack JavaScript from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
